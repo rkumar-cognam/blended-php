@@ -1,0 +1,19 @@
+{
+	"name": "rkumar/blended-php",
+	"type": "library",
+	"description": "Blended Library for PHP",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Rajesh Jindal",
+            "email": "rkumar@cognam.com",
+            "homepage": "http://cognam.com",
+            "role": "Sr. System Admin"
+        }
+	    ],
+	"require": {
+		"phpunit/phpunit": "^4.8",
+		"symfony/symfony": "v2.7.7",
+		"twig/twig": "v1.24.0"
+	}
+}
